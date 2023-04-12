@@ -1,0 +1,5 @@
+import os
+
+url = 'https://replit-connect.joecooldoo.repl.co/'
+
+os.system(f"chromium-browser --no-sandbox --start-maximized {url}")
