@@ -1,5 +1,11 @@
-import os
-
-url = 'https://replit-connect.joecooldoo.repl.co/'
-
-os.system(f"chromium-browser --no-sandbox --start-maximized {url}")
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Redirecting to Replit Connect</title>
+    <meta http-equiv="refresh" content="0; URL='https://replit-connect.joecooldoo.repl.co/'" />
+  </head>
+  <body>
+    <h1>Redirecting to Replit Connect...</h1>
+  </body>
+</html>
